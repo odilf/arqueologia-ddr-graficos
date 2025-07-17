@@ -9,15 +9,15 @@ apartados = []
 [[articles]]
 date = 1938-08-05
 desc = "Raza y porcentajes"
-apartados = ["Otro"]
-categoria = "Prehistoria"
+apartados = ["indet"]
+categoria = "prehistoria"
 arqueologia = true
 
 [[articles]]
 date = 1938-08-05
 desc = "Evolución concepto raza"
-apartados = ["Otro"]
-categoria = "Raza aria en la Antigüedad"
+apartados = ["indet"]
+categoria = "Raza aria"
 arqueologia = true
 
 [[articles]]
@@ -71,6 +71,7 @@ apartados = ["Scienza"]
 categoria = "Hebreos"
 arqueologia = true
 
+
 [[articles]]
 date = 1938-09-05
 desc = "Cerdeña aria"
@@ -93,9 +94,9 @@ portada = true
 
 [[articles]]
 date = 1938-09-20
-desc = "Raza aria en la Antigüedad"
+desc = "Raza aria"
 apartados = ["Documentazione"]
-categoria = "Raza aria en la Antigüedad"
+categoria = "Raza aria en Antigüedad"
 arqueologia = true
 
 
@@ -155,8 +156,9 @@ categoria = "Mundo clásico"
 date = 1938-11-05
 desc = "Arte ario"
 apartados = ["Polemica"]
-categoria = "Raza aria en la Antigüedad"
+categoria = "Raza aria en Antigüedad"
 arqueologia = true
+
 
 
 [[articles]]
@@ -189,21 +191,21 @@ categoria = "Roma"
 [[articles]]
 date = 1938-12-20
 desc = "madres romanas"
-apartados = ["Otro"]
+apartados = ["indet"]
 categoria = "Roma"
 
 
 [[articles]]
 date = 1938-12-20
 desc = "educación en valores de mundo clásico"
-apartados = ["Otro"]
+apartados = ["indet"]
 categoria = "Mundo clásico"
 
 
 [[articles]]
 date = 1938-12-20
 desc = "familia romana, culto a infancia"
-apartados = ["Otro"]
+apartados = ["indet"]
 categoria = "Roma"
 arqueologia = true
 
@@ -228,7 +230,7 @@ desc = "raza italiana"
 apartados = ["Documentazione"]
 categoria = "Raza italiana"
 
-[[figures]]
+[[articles]]
 date = 1939-01-20
 desc = "tragedia griega"
 apartados = ["Documentazione"]
@@ -250,6 +252,7 @@ apartados = ["Scienza"]
 categoria = "Galia y celtas"
 arqueologia = true
 
+
 [[articles]]
 date = 1939-02-05
 desc = "arte egipcio"
@@ -268,7 +271,7 @@ arqueologia = true
 date = 1939-02-20
 desc = "arios y levantinos"
 apartados = ["Polemica"]
-categoria = "Raza aria en la Antigüedad"
+categoria = "Raza aria en Antigüedad"
 
 [[articles]]
 date = 1939-03-05
@@ -304,7 +307,7 @@ apartados = ["Scienza"]
 date = 1939-04-05
 desc = "raza iperborea"
 apartados = ["Scienza"]
-categoria = "Raza aria en la Antigüedad"
+categoria = "Raza aria"
 arqueologia = true
 
 [[articles]]
@@ -327,10 +330,15 @@ desc = "estudios clásicos"
 apartados = ["Questionario"]
 categoria = "Mundo clásico"
 
+[[figures]]
+date = 1939-05-05
+desc = "monumento romano detrás negro"
+portada = true
+
 
 [[figures]]
 date = 1939-05-05
-desc = "monumentos romanos"
+desc = "monumentos romanos en leptis magna"
 apartados = ["Questionario"]
 
 [[figures]]
@@ -360,13 +368,13 @@ categoria = "Roma"
 date = 1939-05-20
 desc = "nietzsche"
 apartados = ["Questionario"]
-categoria = "Otro"
+categoria = "indet"
 arqueologia = true
 
 [[articles]]
 date = 1939-06-05
 desc = "mundo romano, norte vs sur"
-apartados = ["Otro"]
+apartados = ["indet"]
 categoria = "Roma"
 
 [[figures]]
@@ -488,7 +496,7 @@ categoria = "Mundo clásico"
 
 [[articles]]
 date = 1939-10-20
-desc = "continuidad raza italiana"
+desc = "continuidad"
 apartados = ["Documentazione"]
 categoria = "Raza italiana"
 arqueologia = true
@@ -566,6 +574,7 @@ categoria = "Prehistoria"
 arqueologia = true
 
 
+
 [[articles]]
 date = 1940-01-05
 desc = "lengua etrusca"
@@ -603,7 +612,7 @@ categoria = "Mundo clásico"
 date = 1940-01-20
 desc = "Sicilia aria"
 apartados = ["Documentazione"]
-categoria = "Raza aria en la Antigüedad"
+categoria = "Raza aria en Antigüedad"
 arqueologia = true
 
 [[articles]]
@@ -633,11 +642,12 @@ apartados = ["Scienza"]
 categoria = "Mundo clásico"
 arqueologia = true
 
+
 [[articles]]
 date = 1940-02-05
 desc = "raza aria"
 apartados = ["Polemica"]
-categoria = "Raza aria en la Antigüedad"
+categoria = "Raza aria en Antigüedad"
 
 [[articles]]
 date = 1940-02-05
@@ -709,7 +719,7 @@ categoria = "Mundo clásico"
 
 [[figures]]
 date = 1940-03-20
-desc = "monumentos romanos transformados por cristianos"
+desc = "monumentos transformados por cristianos"
 apartados = ["Questionario"]
 
 [[articles]]
@@ -742,14 +752,14 @@ apartados = ["Documentazione"]
 date = 1940-04-05
 desc = "racismo en Antigüedad"
 apartados = ["Documentazione"]
-categoria = "Raza aria en la Antigüedad"
+categoria = "Raza aria en Antigüedad"
 arqueologia = true
 
 [[articles]]
 date = 1940-04-05
 desc = "arte clásico y raza"
 apartados = ["Questionario"]
-categoria = "Raza aria en la Antigüedad"
+categoria = "Raza aria en Antigüedad"
 
 [[figures]]
 date = 1940-04-05
@@ -768,7 +778,7 @@ apartados = []
 date = 1940-04-20
 desc = "agro pontino en Antigüedad"
 apartados = ["Documentazione"]
-categoria = "Raza aria en la Antigüedad"
+categoria = "Raza aria en Antigüedad"
 arqueologia = true
 
 [[articles]]
@@ -804,7 +814,6 @@ categoria = "Raza italiana"
 arqueologia = true
 
 
-
 [[figures]]
 date = 1940-05-20
 desc = "monumentos griegos"
@@ -837,7 +846,7 @@ arqueologia = true
 date = 1940-06-05
 desc = "raza aria en mundo clásico"
 apartados = ["Polemica"]
-categoria = "Raza aria en la Antigüedad"
+categoria = "Raza aria en Antigüedad"
 
 [[figures]]
 date = 1940-06-05
@@ -898,7 +907,7 @@ desc = "monumentos griegos"
 apartados = ["Questionario"]
 
 [[figures]]
-date = 1940-09-12
+date = 1940-09-20
 desc = "monumentos griegos"
 apartados = ["Questionario"]
 
@@ -918,7 +927,7 @@ categoria = "Roma"
 date = 1940-10-05
 desc = "raza aria en oriente"
 apartados = ["Documentazione"]
-categoria = "Raza aria en la Antigüedad"
+categoria = "Raza aria en Antigüedad"
 
 
 [[figures]]
@@ -957,7 +966,7 @@ categoria = "Grecia"
 date = 1940-11-05
 desc = "hachas arias"
 apartados = ["Documentazione"]
-categoria = "Raza aria en la Antigüedad"
+categoria = "Raza aria en Antigüedad"
 arqueologia = true
 
 
@@ -1103,8 +1112,9 @@ categoria = "Mundo clásico"
 date = 1941-05-20
 desc = "salud y raza"
 apartados = ["Documentazione"]
-categoria = "Raza aria en la Antigüedad"
+categoria = "Raza aria"
 arqueologia = true
+
 
 
 [[figures]]
@@ -1191,12 +1201,15 @@ apartados = ["Scienza"]
 categoria = "Grecia"
 arqueologia = true
 
+
+
 [[articles]]
 date = 1941-10-05
 desc = "raza finesa"
 apartados = ["Scienza"]
 categoria = "Prehistoria"
 arqueologia = true
+
 
 [[articles]]
 date = 1941-10-20
@@ -1228,7 +1241,7 @@ categoria = "Roma"
 date = 1941-11-20
 desc = "águilas arias"
 apartados = ["Scienza"]
-categoria = "Raza aria en la Antigüedad"
+categoria = "Raza aria en Antigüedad"
 
 
 [[figures]]
@@ -1278,6 +1291,7 @@ categoria = "Roma"
 arqueologia = true
 
 
+
 [[figures]]
 date = 1942-04-20
 desc = "legionario con soldado moderno"
@@ -1313,8 +1327,9 @@ apartados = []
 date = 1942-06-05
 desc = "continuidad raza aria"
 apartados = []
-categoria = "Raza aria en la Antigüedad"
+categoria = "Raza aria en Antigüedad"
 arqueologia = true
+
 
 
 [[figures]]
@@ -1332,7 +1347,7 @@ apartados = []
 date = 1942-07-05
 desc = "italia aria"
 apartados = []
-categoria = "Raza aria en la Antigüedad"
+categoria = "Raza aria en Antigüedad"
 
 
 [[articles]]
@@ -1383,14 +1398,14 @@ arqueologia = true
 date = 1942-10-05
 desc = "arqueología aria"
 apartados = ["Scienza"]
-categoria = "Raza aria en la Antigüedad"
+categoria = "Raza aria en Antigüedad"
 arqueologia = true
 
 [[articles]]
 date = 1942-10-20
 desc = "historia raza aria"
 apartados = ["Scienza"]
-categoria = "Raza aria en la Antigüedad"
+categoria = "Raza aria en Antigüedad"
 arqueologia = true
 
 
@@ -1413,6 +1428,7 @@ desc = "liguri, pueblos itálicos"
 apartados = ["Questionario"]
 categoria = "Pueblos itálicos"
 arqueologia = true
+
 
 [[articles]]
 date = 1943-01-05
